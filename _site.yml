@@ -1,0 +1,12 @@
+name: "."
+title: "The Science of Human Mobility"
+description: |
+  The Science of Human Mobility
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
