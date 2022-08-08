@@ -6,15 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-08-08T14:24:40-04:00"
+      "last_modified": "2022-08-08T14:56:26-04:00"
     },
     {
       "path": "index.html",
-      "title": "The Science of Human Mobility",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "mobility.science",
+      "description": "The Science of Human Mobility\n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-08-08T14:24:40-04:00"
+      "contents": "\nHuman mobility describes physical patterns of movement of people\nwithin a spatial system. Many of these patterns, including daily\ncommuting, are cyclic and quantifiable. These patterns capture physical\nphenomena tied to processes studied in epidemiology, and other social,\nbehavioral, and economic sciences. This site captures and documents\nadvancements in this area with emphasis on statistical and computational\nmethods and tools.\n\n\n\n",
+      "last_modified": "2022-08-08T14:56:27-04:00"
     }
   ],
   "collections": []

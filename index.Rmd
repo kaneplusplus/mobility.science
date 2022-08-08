@@ -1,9 +1,11 @@
 ---
-title: "The Science of Human Mobility"
+title: "mobility.science"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  The Science of Human Mobility
 site: distill::distill_website
 ---
+
+Human mobility describes physical patterns of movement of people within a spatial system. Many of these patterns, including daily commuting, are cyclic and quantifiable. These patterns capture physical phenomena tied to processes studied in epidemiology, and other social, behavioral, and economic sciences. This site captures and documents advancements in this area with emphasis on statistical and computational methods and tools.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
