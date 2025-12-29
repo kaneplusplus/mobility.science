@@ -7,6 +7,10 @@ description: "Understanding the Dynamic Social Vulnerability Index and its impli
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# Interactive DSVI State Explorer
+
+Explore the interactive DSVI state explorer: [https://ogilani.shinyapps.io/dsvi/](https://ogilani.shinyapps.io/dsvi/)
+
 # Dynamic Social Vulnerability Index (DSVI)
 
 The Dynamic Social Vulnerability Index (DSVI) is a comprehensive metric designed to assess and quantify the social vulnerability of populations in a changing environment. Unlike static vulnerability indices, the DSVI incorporates temporal dynamics, recognizing that vulnerability is not fixed but evolves over time due to various socio-economic, environmental, and political factors.
@@ -34,8 +38,4 @@ In the context of human mobility, the DSVI helps in understanding how vulnerable
 The DSVI is calculated using a combination of geospatial data, time-series analysis, and machine learning techniques to model vulnerability trajectories. It often integrates data from censuses, satellite imagery, and real-time sensors.
 
 For more detailed research and data, refer to ongoing studies in social vulnerability and mobility science.
-
-## Interactive DSVI State Explorer
-
-Explore the interactive DSVI state explorer: [https://ogilani.shinyapps.io/dsvi/](https://ogilani.shinyapps.io/dsvi/)
 
