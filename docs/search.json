@@ -6,14 +6,21 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2025-12-29T16:31:26-05:00"
+      "last_modified": "2025-12-31T11:51:33-05:00"
     },
     {
       "path": "dsvi.html",
       "title": " ",
       "author": [],
       "contents": "\n\n\n\n\n\n\n\n",
-      "last_modified": "2025-12-29T16:31:26-05:00"
+      "last_modified": "2025-12-31T11:51:34-05:00"
+    },
+    {
+      "path": "gentrification.html",
+      "title": " ",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\n\n",
+      "last_modified": "2025-12-31T11:51:35-05:00"
     },
     {
       "path": "index.html",
@@ -21,7 +28,7 @@
       "description": "The Science of Human Mobility\n",
       "author": [],
       "contents": "\nHuman mobility describes physical patterns of movement of people within a spatial system. Many of these patterns, including daily commuting, are cyclic and quantifiable. These patterns capture physical phenomena tied to processes studied in epidemiology, and other social, behavioral, and economic sciences. This site captures and documents advancements in this area with emphasis on statistical and computational methods and tools.\n\n\n\n",
-      "last_modified": "2025-12-29T16:31:26-05:00"
+      "last_modified": "2025-12-31T11:51:35-05:00"
     }
   ],
   "collections": []
